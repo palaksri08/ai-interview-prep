@@ -1,4 +1,4 @@
-# 🧠 AI Interview Prep Assistant (Demo Version)
+# 🧠 AI Interview Prep Assistant
 
 This version runs with mock content (no OpenAI API key required) and is suitable for showcasing on resumes or live demos.
 
